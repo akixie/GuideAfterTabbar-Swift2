@@ -5,6 +5,7 @@ Swift2Project-Tutorial
 2. CocoaPods
 3. AFNetworking
 4. JSONKit
+5. How to bring an AFNetworking Pod(Objective C framework) into a Swift project with a Bridging Header.
 5. Alamofire is an HTTP networking library written in Swift.
 
 
