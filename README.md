@@ -1,7 +1,11 @@
 # GuideAfterTabbar-Swift2
-Swift 2 How to Load UITabBarController after Showing GuideViewController
+Swift2Project-Tutorial
 
-first project frame to swift
+1. How to Load UITabBarController after Showing GuideViewController
+2. CocoaPods
+3. AFNetworking
+4. JSONKit
+5. Alamofire is an HTTP networking library written in Swift.
 
 
 ![preview]
