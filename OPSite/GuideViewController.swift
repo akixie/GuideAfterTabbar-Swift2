@@ -41,12 +41,12 @@ class GuideViewController: UIViewController {
             scrollView.addSubview(imageView)
         }
         
-        self.view.insertSubview(scrollView, atIndex: 0)
+//        self.view.insertSubview(scrollView, atIndex: 0)
         
         // 给开始按钮设置圆角
         startButton.layer.cornerRadius = 15.0
         // 隐藏开始按钮
-        startButton.alpha = 0.0
+        startButton.alpha = 1.0
     }
     
     // 隐藏状态栏
